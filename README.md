@@ -37,10 +37,6 @@ EDA involed exploring the data and asking questions such as;
 
 I used Pivot tables to calculate aggregate data and also build charts.
 
-### DATA_ANALYSIS_SHEET
-(
-
-https://github.com/HADASSAHME/Road_Accident_Analysis/blob/main/road_accident_dashboard.png
 ### RESULTS
 
 The analysis results are summarized as follows:
