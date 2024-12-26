@@ -50,7 +50,7 @@ The analysis results are summarized as follows:
   - The relationship between casualties caused by Location and by either Day or N ight is that the both have the same Total number of casulties.so it doesnt
     matter if the accident happpens in the Rural area at Night or the Urban area during the Daytime.
     
-    road_accident_dashboard.png
+[
 
 ### REFERENCES
 
